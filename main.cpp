@@ -1,6 +1,6 @@
-#include "helperFunctions/assistingFunctions.h"
-#include "majorComponents/gameStart.h"
-#include "majorComponents/cardDrawing.h"
+#include "assistingFunctions.h"
+#include "gameStart.h"
+#include "cardDrawing.h"
 
 #include <iostream>
 
